@@ -1,0 +1,43 @@
+h1, h2, h3, p, body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: var(--txt);
+    color: var(--txtClr1);
+    font-size: 0.9375rem;
+    line-height: 1.5625;
+}
+
+h1, h2, h3 {
+    font-family: var(--bold);
+    color: var(--txtClr1);
+    margin-block: 0px;
+}
+
+h3 {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 3rem;
+}
+
+.btn {
+    background-color: transparent;
+    font-size: 1.125rem;
+    font-family: var(--txt);
+    line-height: 1.75rem;
+    border-radius: 40px;
+    padding: 5px 32.5px;
+}
+
+small {
+    color: var(--txtClr1);
+    font-size: 0.8125rem;
+    line-height: 1.125rem;
+    font-family: var(--italic);
+}

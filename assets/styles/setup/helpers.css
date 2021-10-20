@@ -1,0 +1,25 @@
+.main-layout {
+    max-width: 1140px;
+    margin: auto;
+    padding: 20px;
+}
+
+.relative {
+    position: relative;
+}
+
+.flex {
+    display: flex;
+}
+
+.direction-column {
+    flex-direction: column;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}

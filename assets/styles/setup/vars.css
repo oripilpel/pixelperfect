@@ -1,0 +1,12 @@
+:root {
+    /* Colors */
+    --bgclr1: #014E56;
+    --bgclr2: #012F34;
+    --txtClr1: #ffffff;
+    --txtClr2: #79C8C7;
+    --txtClr3: #F67E7E;
+    /* Fonts */
+    --bold: 'Livvic-Bold';
+    --italic: 'Livvic-MediumItalic';
+    --txt: 'Livvic-SemiBold';
+}

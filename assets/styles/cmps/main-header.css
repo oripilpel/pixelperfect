@@ -1,0 +1,28 @@
+.main-header {
+    background-color: var(--bgclr1);
+    height: 700px;
+    font-family: var(--txt);
+    color: var(--txtClr1);
+}
+
+.main-header nav {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    gap: 40px;
+    align-items: flex-end;
+}
+
+.main-header h1 {
+    font-size: 6.25rem;
+    line-height: 6.25rem;
+}
+
+.main-header span {
+    color: var(--txtClr3);
+}
+
+.main-header nav .btn {
+    color: var(--txtClr1);
+    border: 1px solid var(--txtClr1);
+
+}

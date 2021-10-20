@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Livvic-Bold;
+    src: url('../../font/livvic/Livvic-Bold.ttf');
+}
+
+@font-face {
+    font-family: Livvic-MediumItalic;
+    src: url('../../font/livvic/Livvic-MediumItalic.ttf');
+}
+
+@font-face {
+    font-family: Livvic-SemiBold;
+    src: url('../../font/livvic/Livvic-SemiBold.ttf');
+}

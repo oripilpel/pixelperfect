@@ -1,0 +1,59 @@
+.our-team {
+    background-color: var(--bgclr1);
+    min-height: 745px;
+    text-align: center;
+}
+
+.our-team .about-top-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.our-team .about-bottom-right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.our-team .cards {
+    padding-top: 85px;
+    gap: 25px;
+    min-height: 313px;
+    flex-wrap: wrap;
+}
+
+.our-team .card {
+    flex-basis: calc(33% - 15px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    justify-content: flex-end;
+    gap: 35px;
+}
+
+.our-team .card img.quotes {
+    position: absolute;
+    top: 0;
+    opacity: .7;
+}
+
+.our-team .card img.avatar {
+    height: 62px;
+    border-radius: 50%;
+    border: 2px #C4FFFE solid;
+}
+
+.our-team h2 {
+    max-width: 930px;
+    display: inline-block;
+}
+
+.our-team h2 span {
+    color: var(--txtClr2);
+}
+
+.our-team h3 {
+    color: var(--txtClr2);
+}

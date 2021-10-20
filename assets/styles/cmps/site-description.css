@@ -1,0 +1,7 @@
+.site-decription {
+    background-color: var(--bgclr2);
+}
+
+.site-decription h3 {
+    color: var(--txtClr3);
+}
